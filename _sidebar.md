@@ -1,7 +1,6 @@
 - [Ana Sayfa](/)
 
 - **Çerçeve**
-  - [Giriş](giris.md)
   - [Çerçeve ve İçerik Akışı](cerceve-icerik-akisi.md)
   - [Peki, listede neler var?](kategoriler.md)
 
@@ -14,6 +13,7 @@
   - [Kurumsal Yetenekler ve İnsan Kaynakları](kurumsal-yetenekler.md)
 
 - **Ek Bölümler**
+  - [Teknoloji Sözlüğü](teknik-bilesenler-sozlugu.md)
   - [KPI (Ölçülebilir Etki) Sözlüğü](kpi-sozlugu.md)
   - [Türkiye Uyarlaması](turkiye-uyarlamasi.md)
   - [Kaynakça](kaynakca.md)
