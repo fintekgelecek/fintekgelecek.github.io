@@ -1,6 +1,6 @@
 # Peki, listede neler var?
 
-Listeyi aşağıdaki konu başlıklarına ayırdım. Alt başlıklarını ise belirttiğim şekilde detaylandıracağım.
+Listeyi aşağıdaki konu başlıklarına ayırdım. Alt başlıklarını belirttiğim şekilde detaylandırdım.
 
 - **Yapay Zekâ ve Ajan Teknolojileri**
 - **Müşteri Deneyimi ve Davranışsal Finans**
@@ -12,7 +12,7 @@ Listeyi aşağıdaki konu başlıklarına ayırdım. Alt başlıklarını ise be
 ---
 
 ## Yapay Zekâ ve Ajan Teknolojileri
-Bu grup, yapay zekânın finansal hizmet süreçlerini süreçlerini nasıl dönüştürdüğüne odaklanan fikirleri içerir.
+Bu bölümde, yapay zekânın finansal hizmet süreçlerini nasıl dönüştürdüğüne odaklanan fikirleri topladım.
 
 - Otonom Finansal Ajanlar (Autonomous Finance Agents)  
 - Kişiselleştirilmiş AI Bankacı (Tokenize Finansal Kimlik)  
@@ -25,7 +25,7 @@ Bu grup, yapay zekânın finansal hizmet süreçlerini süreçlerini nasıl dön
 ---
 
 ## Müşteri Deneyimi ve Davranışsal Finans
-Bu grup, müşteri etkileşimini, kişiselleştirmeyi ve finansal hizmet deneyimini deneyimini dönüştüren yaklaşımları ele alır.
+Bu bölümde, müşteri etkileşimini, kişiselleştirmeyi ve finansal hizmet deneyimini dönüştüren yaklaşımları bir araya getirdim.
 
 - EmoBanking — Duygu Durumuna Duyarlı Bankacılık  
 - Arayüzsüz / Invisible Bankacılık (Zero-Interface)  
@@ -39,7 +39,7 @@ Bu grup, müşteri etkileşimini, kişiselleştirmeyi ve finansal hizmet deneyim
 ---
 
 ## Veri, İçgörü ve Analitik
-Bu kategori, müşteri verilerini analiz ederek içgörüler üretmeyi, davranışları anlamayı ve hiper-kişiselleştirme sağlamayı amaçlayan fikirleri bir araya getirir.
+Bu bölümde, müşteri verilerini analiz ederek içgörüler üretmeye, davranışları anlamaya ve hiper-kişiselleştirme sağlamaya yönelik fikirleri derledim.
 
 - Veriyle Konuşan Arayüz (NLQ / NLBI)  
 - Finansal Gölgeler (Davranışsal Risk Sinyalleri)  
@@ -50,7 +50,7 @@ Bu kategori, müşteri verilerini analiz ederek içgörüler üretmeyi, davranı
 ---
 
 ## Yeni İş Modelleri ve Hizmetler
-Bu grup, finansal kurumların sunduğu hizmetleri ve iş yapış biçimlerini kökten değiştirebilecek yeni model önerilerini içerir.
+Bu bölümde, finansal kurumların sunduğu hizmetleri ve iş yapış biçimlerini kökten değiştirebilecek yeni model önerilerini aktardım.
 
 - Kişisel Finansal İşletim Sistemi (Kendi Katmanını Kur)  
 - Tersine Ürünleşme (Bottom-Up Productization)  
@@ -62,7 +62,7 @@ Bu grup, finansal kurumların sunduğu hizmetleri ve iş yapış biçimlerini k�
 ---
 
 ## Teknik Altyapı ve Sistem Yönetimi
-Bu grup, finansal teknolojilerin temelini oluşturan altyapı ve sistem yönetimi yaklaşımlarına odaklanır.
+Bu bölümde, finansal kurumların sunduğu hizmetleri ve iş yapış biçimlerini kökten değiştirebilecek yeni model önerilerini aktardım.
 
 - Kuantum-Destekli Risk Simülasyonları (Erken Sinyaller)  
 - Kendi Kendini İyileştiren Sistem (Self-Healing Banking Systems)  
@@ -72,7 +72,7 @@ Bu grup, finansal teknolojilerin temelini oluşturan altyapı ve sistem yönetim
 ---
 
 ## Kurumsal Yetenekler ve İnsan Kaynakları
-Bu kategori, çalışan gelişimi, kurum içi süreçler ve organizasyonel verimliliğe odaklanan fikirleri içerir.
+Bu bölümde, çalışan gelişimine, kurum içi süreçlere ve organizasyonel verimliliğe odaklanan fikirleri topladım.
 
 - Göçebelik Tabanlı Kadro Yönetimi (Function-First Workforce)  
 - İçsel Değer Skoru (Cultural KPI)  

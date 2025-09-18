@@ -1,6 +1,8 @@
 # Türkiye Uyarlaması – Regülasyon, KVKK ve Etik Çerçeve
 
-Finansal kurumlarda yapay zekâ, veri analitiği ve otomasyon çözümlerinin devreye alınması, yalnızca teknik uyumlulukla değil; aynı zamanda düzenleyici kurumların (**BDDK, KVKK, TBB**) çizdiği çerçeve ve etik ilkelerle de yakından ilişkilidir. Bu nedenle, aşağıda yer alan başlıklar farklı düzenlemelerden türetilmiş temel uyum noktalarını özetlemektedir. Her bir madde, hem ilgili mevzuata atıf yapar hem de günlük işleyişe nasıl yansıdığını sade bir dille açıklamaya çalışır.
+Finansal kurumlarda yapay zekâ, veri analitiği ve otomasyon çözümlerinin devreye alınması, yalnızca teknik uyumluluk meselesi değildir. Bu alan, düzenleyici kurumların (**BDDK, KVKK, TBB**) koyduğu çerçevelerle ve etik ilkelerle doğrudan bağlantılıdır.  
+
+Ben bu bölümde, farklı düzenlemelerden süzülen temel uyum noktalarını bir araya getirdim. Amacım, mevzuata referans vermekle kalmayıp bunların günlük işleyişe nasıl yansıdığını sade bir dille göstermekti. Yani, teknik ayrıntıların ötesinde kurumların sahada gerçekten neye dikkat etmesi gerektiğini özetlemeye çalıştım.
 
 ---
 
@@ -72,11 +74,12 @@ Finansal kurumlarda yapay zekâ, veri analitiği ve otomasyon çözümlerinin de
 
 ---
 
-## Sonuç
-Bu başlıklar, Türkiye’de finansal kurumların yapay zekâ ve veri odaklı çözümleri devreye alırken dikkate alması gereken yasal, etik ve kurumsal çerçeveyi özetlemektedir.  
+Nihai olarak burada özetlenen başlıklar, Türkiye’de yapay zekâ ve veri odaklı çözümlerle ilerlemek isteyen kurumların önünde duran yol haritasını gösteriyor.  
 
-- **BDDK yönetmelikleri** teknik gereklilikleri,  
-- **KVKK** veri koruma boyutunu,  
-- **TBB rehberleri** ise müşteri iletişimi ve şeffaflık beklentilerini belirler.  
+- **BDDK yönetmelikleri** teknik uyumun çerçevesini,  
+- **KVKK** veri gizliliğinin sınırlarını,  
+- **TBB rehberleri** ise müşteriyle şeffaf iletişimin gerekliliklerini ortaya koyuyor.  
 
-Etik ilkeler ve kurum kültürü ise bu düzenlemelerin ötesinde güveni pekiştiren tamamlayıcı unsurlardır. **Uyumun sağlanması, yalnızca riskleri azaltmakla kalmaz; müşteri güvenini ve kurum itibarını da güçlendirir.**
+Etik ilkeler ve kurum kültürü ise bütün bunları tamamlayan, güveni güçlendiren katmanlar. Benim gözümde uyum, yalnızca riskten kaçınmak anlamına gelmiyor; aynı zamanda müşteri güvenini kazanmak ve kurum itibarını kalıcı şekilde beslemek demek.  
+
+Bu bölümdeki amacım da, inovasyonla birlikte yasal, etik ve uyum başlıklarının el ele yürümesi gerektiğine dair ortak bir farkındalık geliştirmekti.
