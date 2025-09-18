@@ -38,7 +38,9 @@ Identity resolution, farklı kaynaklarda aynı kişiye ait parçalı kimlik bilg
 - **Scoped Tokens — Kapsamlı Jetonlar**  
 Scoped tokens, erişim yetkilerinin belirli bir süre, kapsam veya işlemle sınırlandırıldığı, güvenliği artıran kimlik doğrulama belirteçleridir.
 
-**📘 Veri & AI Temelleri**  
+---
+
+**Veri & AI Temelleri**  
 - **Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**  
 Context-aware UI engine, kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşenidir.  
 - **Context Engine — Bağlam Motoru**  
