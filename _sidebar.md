@@ -1,4 +1,4 @@
-- [Çizgilerin Ötesinde Bir Fikir Egzersizi: Finansal Teknolojiler](/)
+- **[Çizgilerin Ötesinde Bir Fikir Egzersizi: Finansal Teknolojiler](/)**
 
 - **Çerçeve**
   - [Çerçeve ve İçerik Akışı](cerceve-icerik-akisi.md)
@@ -17,4 +17,5 @@
   - [KPI (Ölçülebilir Etki) Sözlüğü](kpi-sozlugu.md)
   - [Türkiye Uyarlaması](turkiye-uyarlamasi.md)
   - [Kaynakça](kaynakca.md)
-  - [Sonuç](sonuc.md)
+
+- **[Sonuç](sonuc.md)**
