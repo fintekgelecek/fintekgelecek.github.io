@@ -14,11 +14,11 @@ Bunlara ek olarak, metnin bütününü desteklemek için dört ayrı bölüm dah
 
 Her fikirde anılan teknolojik bileşenleri ayrıca bir “sözlük” bölümünde detaylandırdım.  
 
-📘 **Mimari & Entegrasyon**  
+**Mimari & Entegrasyon**  
 **API Gateway — API Geçidi**  
 Farklı servislerin tek bir giriş noktası üzerinden yönetilmesini sağlayan, güvenlik, yönlendirme, hız sınırlama ve izleme gibi yetenekler sunan bir ara katman bileşeni.  
 
-📘 **Veri & AI Temelleri**  
+**Veri & AI Temelleri**  
 **Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**  
 Kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşeni.  
 
@@ -55,7 +55,6 @@ Yazının tamamını, küresel ve yerel ölçekte yaklaşık 40 kaynakla destekl
 
 ---
 
-Özetle her bir fikri üç boyut üzerinden işledim: **Tanım / Örnek Senaryo**, **Neden Şimdi?** ve **Teknik Bileşenler**. Bunun yanında hazırladığım **teknik bileşenler sözlüğü**, **KPI kılavuzu**, **Türkiye uyarlaması** ve **kaynakça** bölümleri çalışmayı tamamlayan ek katmanlar oldu.  
+Özetle her bir fikri üç boyut üzerinden işledim: **Tanım / Örnek Senaryo**, **Neden Şimdi?** ve **Teknik Bileşenler**. Bunun yanında hazırladığım **Teknik Bileşenler Sözlüğü**, **KPI (Ölçülebilir Etki) Sözlüğü**, **Türkiye Uyarlaması** ve **Kaynakça** bölümleri çalışmayı tamamlayan ek katmanlar oldu.  
 
-**Amacım şu:**  
-Okurken yalnızca ilham veren konseptlerle karşılaşmayın; aynı zamanda bu fikirlerin arkasındaki teknik zemini görün, ölçülebilir etki alanlarını keşfedin ve Türkiye’deki regülasyonel/etik bağlamı da göz önünde bulundurun.
+Okuyucunun yalnızca ilham verici konseptlerle değil; bu fikirlerin teknik zemini, ölçülebilir etki alanları ve Türkiye’ye özgü düzenleyici/etik çerçevesiyle birlikte düşünmesini istedim. Metin **uygulanabilir bir yol haritası iddiası taşımıyor**; amaç, tartışmayı besleyen ve perspektif açan bir çerçeve sunmak.
