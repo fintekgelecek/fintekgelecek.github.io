@@ -1,4 +1,4 @@
-- [Giriş](/)
+- [Çizgilerin Ötesinde Bir Fikir Egzersizi: Finansal Teknolojiler](/)
 
 - **Çerçeve**
   - [Çerçeve ve İçerik Akışı](cerceve-icerik-akisi.md)
