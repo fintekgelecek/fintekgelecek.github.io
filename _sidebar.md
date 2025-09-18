@@ -1,4 +1,4 @@
-- [Ana Sayfa](/)
+- [Giriş](/)
 
 - **Çerçeve**
   - [Çerçeve ve İçerik Akışı](cerceve-icerik-akisi.md)
@@ -13,7 +13,7 @@
   - [Kurumsal Yetenekler ve İnsan Kaynakları](kurumsal-yetenekler.md)
 
 - **Ek Bölümler**
-  - [Teknoloji Sözlüğü](teknik-bilesenler-sozlugu.md)
+  - [Teknik Bileşenler Sözlüğü](teknik-bilesenler-sozlugu.md)
   - [KPI (Ölçülebilir Etki) Sözlüğü](kpi-sozlugu.md)
   - [Türkiye Uyarlaması](turkiye-uyarlamasi.md)
   - [Kaynakça](kaynakca.md)

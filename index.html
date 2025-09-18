@@ -10,9 +10,11 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
 
   <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <!-- (Opsiyonel PNG fallback)
-  <link rel="alternate icon" type="image/png" href="/favicon-32.png" sizes="32x32" /> -->
+  <!-- Not: favicon.svg dosyası index.html ile aynı dizinde olmalı -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <!-- (Önerilen fallback'ler: bu dosyaları köke eklersen tarayıcı uyumluluğu artar) -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="alternate icon" type="image/png" href="favicon-32.png" sizes="32x32" />
 
   <!-- Sosyal paylaşım -->
   <meta property="og:title" content="Çizgilerin Ötesinde Bir Fikir Egzersizi: Finansal Teknolojiler" />
@@ -31,7 +33,14 @@
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true,
-      search: 'auto'   // Arama kutusu
+
+      // Arama kutusu (Türkçe)
+      search: {
+        paths: 'auto',
+        placeholder: 'Ara...',
+        noData: 'Sonuç bulunamadı.',
+        depth: 2
+      }
     }
   </script>
 
