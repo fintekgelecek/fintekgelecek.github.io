@@ -45,7 +45,7 @@ Niyet (**intent**) tespitinden gelen sinyallere dayanarak proaktif öneriler ve 
 
 Tüm işlemler scope’lu yetki belirteçleriyle (scoped tokens) yürütülür ve geri alma seçeneği her zaman müşteriye sunulur.  
 
-**Trend ve Değerlendirme**
+**Trend ve Değerlendirme**  
 McKinsey’nin Haziran 2025 tarihli *Seizing the agentic AI advantage* raporu, “genel amaçlı copilots” yerine dikey ve süreç-özgü ajanların değer yarattığını ortaya koyuyor.  
 Aynı dönemde yayımlanan *The future of customer experience: embracing agentic AI* analizi, kurumların müşteri deneyimini yeniden tasarlarken profil/niyet/olay sinyallerini gerçek zamanlı işleyen bir çekirdek veri omurgasına ihtiyaç duyduğunu vurguluyor.  
 
