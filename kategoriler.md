@@ -35,6 +35,7 @@ Bu bölümde, müşteri etkileşimini, kişiselleştirmeyi ve finansal hizmet de
 - Görev Bazlı Bankacılık (Goal-to-Flow Banking)  
 - Sessiz Uyarı Sistemi (Subtle Nudges)  
 - Etik Skorlama (ESG / Etki Göstergesi)  
+- Otonom Finansal İyileştirme Döngüsü  
 
 ---
 
@@ -67,7 +68,6 @@ Bu bölümde, finansal kurumların sunduğu hizmetleri ve iş yapış biçimleri
 - Kuantum-Destekli Risk Simülasyonları (Erken Sinyaller)  
 - Kendi Kendini İyileştiren Sistem (Self-Healing Banking Systems)  
 - Regülasyon Uyumlu AI Model Marketi (Regulation-Compliant AI Model Marketplace)  
-- Otonom Finansal İyileştirme Döngüsü  
 
 ---
 
