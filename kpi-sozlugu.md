@@ -1,8 +1,8 @@
 # Ölçülebilir Etki (KPI)
 
-Bu makalede paylaştığım 41 fikrin her biri, ancak somut göstergelerle ölçüldüğünde gerçek değerini ortaya koyuyor. Benim için KPI’lar, yalnızca operasyonel verimlilik ya da müşteri memnuniyetiyle sınırlı değil; aynı zamanda yeni iş modellerinin hayata değip değmediğini anlamamı sağlayan yol göstericiler oldu. 
+Bu makalede paylaştığım 36 fikrin her biri, ancak somut göstergelerle ölçüldüğünde gerçek değerini ortaya koyuyor. Benim için KPI’lar, yalnızca operasyonel verimlilik ya da müşteri memnuniyetiyle sınırlı değil; aynı zamanda yeni iş modellerinin hayata değip değmediğini anlamamı sağlayan yol göstericiler oldu. 
 
-Sektörde çalıştığım dönemde önemini koruduğunu gördüğüm ve bugün de geçerliliğini sürdüren **45 temel KPI**’yı bu nedenle derledim. Her KPI’ı hem kurumsal tanımı hem de sade Türkçe açıklamasıyla paylaştım. Böylece, bir yandan profesyoneller için teknik referans sundum; bir yandan da bu çalışmadaki 41 fikri ölçülebilir çıktılarla ilişkilendirmek için ortak bir çerçeve oluşturmuş oldum.  
+Sektörde çalıştığım dönemde önemini koruduğunu gördüğüm ve bugün de geçerliliğini sürdüren **45 temel KPI**’yı bu nedenle derledim. Her KPI’ı hem kurumsal tanımı hem de sade Türkçe açıklamasıyla paylaştım. Böylece, bir yandan profesyoneller için teknik referans sundum; bir yandan da bu çalışmadaki 36 fikri ölçülebilir çıktılarla ilişkilendirmek için ortak bir çerçeve oluşturmuş oldum.  
 
 Örneğin, **Etik Skorlama (ESG/Etki Göstergesi)** başlığında tartıştığım fikir, şu göstergeler üzerinden değerlendirilebilir:  
 - **NPS (Net Promoter Score) ↑** – Bilinçli ve güven odaklı müşteri deneyimi  

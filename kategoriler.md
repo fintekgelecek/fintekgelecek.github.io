@@ -74,14 +74,9 @@ Bu bölümde, finansal kurumların sunduğu hizmetleri ve iş yapış biçimleri
 ## Kurumsal Yetenekler ve İnsan Kaynakları
 Bu bölümde, çalışan gelişimine, kurum içi süreçlere ve organizasyonel verimliliğe odaklanan fikirleri topladım.
 
-- Göçebelik Tabanlı Kadro Yönetimi (Function-First Workforce)  
-- İçsel Değer Skoru (Cultural KPI)  
-- Saha Gözü AI (Fiziksel Akış Analitiği)  
-- Yaşayan Mikro Akademiler (Personalized L&D)  
-- Dijital Gölge Programı (Behavioral Mentoring Twin)  
-- Hibrit Alan Yönetimi (Dynamic Branch Roles)  
-- Bilgi Sürüklenmesi Ölçümü (Work Duplication Radar)  
-- Sessiz Potansiyel Ağı (Hidden Talent Graph)  
-- Anlık Organizasyonel Nabız (Pace & Mood)  
-- İç Mentorluk Pazar Yeri (Expertise Matchmaking)  
-- Kurum İçi Hackathon Süreçleri (Always-On)  
+- Yaşayan Mikro Akademiler (Personalized Learning & Development – L&D)
+- Dijital Gölge Programı (Behavioral Mentoring Twin)
+- İş Kopyası Radarı & Bilgi Sürüklenmesi Ölçümü (Work Duplication Radar & Knowledge Drift Measurement)
+- Sessiz Potansiyel Ağı (Hidden Talent Graph)
+- İç Mentorluk Pazar Yeri (Expertise Matchmaking)
+- Operasyonel Dayanıklılık Tatbikatları (Resilience War-Gaming)
