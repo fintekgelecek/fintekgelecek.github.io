@@ -1,6 +1,6 @@
 # Son Söz: İhtimalin Ufku
 
-Bu fikir egzersizi, tekil projeler ya da “bir sonraki ürün” arayışından öte, finansal teknolojiler kavramını yeniden düşünmek için bir davettir. Burada listelenen 40 başlık, birbirinden bağımsız inovasyonlar değil; aynı resmin farklı köşelerinden görülen parçalarıdır.  
+Bu fikir egzersizi, tekil projeler ya da “bir sonraki ürün” arayışından öte, finansal teknolojiler kavramını yeniden düşünmek için bir davettir. Burada listelenen 36 başlık, birbirinden bağımsız inovasyonlar değil; aynı resmin farklı köşelerinden görülen parçalarıdır.  
 
 Kimi öneriler bugünün altyapısıyla uygulanabilir, kimileri içinse henüz kültürel veya regülasyonel zemin hazır değil. Ama hepsi, Türkiye’deki finansal teknolojilerin yalnızca hizmet sunmaktan öteye geçip insan davranışlarını, duygularını, akışlarını ve değerlerini merkezine alan bir geleceğe evrilebileceğini gösteriyor.  
 
@@ -17,3 +17,5 @@ Görüş ve katkılarınızı duymaktan memnuniyet duyarım. Vaktiniz için teş
 Hazırlayan: **Yüksel Can Kabaklarlı**  
 📧 E-posta: [can.kabaklarli@gmail.com](mailto:can.kabaklarli@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/yukselcankabaklarli](https://www.linkedin.com/in/yukselcankabaklarli/)  
+
+Tarih: **Eylül 2025**
