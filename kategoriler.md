@@ -19,7 +19,7 @@ Bu bölümde, yapay zekânın finansal hizmet süreçlerini nasıl dönüştürd
 - Intent-First Bankacılık (Niyet Tabanlı Orkestrasyon)  
 - Yapay Zekâyla Yönetilen Mikrobankalar  
 - Zincirleme Finansal Ajanlar (Multi-Agent Orchestration)  
-- Dijital Finansal Takma Akıl (Co-Thinker)  
+- Dijital Finansal Düşünce Ortağı (Co-Thinker)  
 - AI-Driven Governance (Kurum Kendi Kendini Yönetir)  
 
 ---
