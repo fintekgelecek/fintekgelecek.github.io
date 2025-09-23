@@ -5,6 +5,9 @@ Erişim adresi: <https://www.accenture.com/us-en/insights/banking/top-10-trends-
 - **Accenture.** (May 2025). *Commercial Banking Top Trends 2025.
 Erişim adresi: <https://bankingblog.accenture.com/commercial-banking-top-trends-2025>
 
+- **Baker McKenzie.** (Şub 2025). *Navigating the New EU Regulation on Digital Operational Resilience.*  
+Erişim adresi: <https://www.bakermckenzie.com/en/insight/publications/2025/02/navigating-new-eu-regulation-on-digital-operational-resilience>
+
 - **BDDK.** *Mevzuat Listesi.
 Erişim adresi: <https://www.bddk.org.tr/Mevzuat/Liste/134>
 - **BDDK.** *BDDK duyuru (BSEBY atıflı).
@@ -21,10 +24,17 @@ Erişim adresi: <https://www.computerweekly.com/news/366627073/Digital-workers-a
 - **Forbes (Ron Shevlin).** (Ağu 2024). *The Next Wave Of AI In Banking: Intelligent, Autonomous Agents.
 Erişim adresi: <https://www.forbes.com/sites/ronshevlin/2024/08/02/the-next-wave-of-ai-in-banking-intelligent-autonomous-agents/>
 
-- **Gartner.** (Eki 2024). *Top Strategic Technology Trends 2025.
-Erişim adresi: <https://www.gartner.com/en/articles/top-technology-trends-2025>
-- **Gartner.** (Ara 2024). *Tackling Trust, Risk and Security in AI Models.
+- **Gartner.** (t.y.). *Platform Engineering Empowers Developers to be Better, Faster, Happier.*  
+Erişim adresi: <https://www.gartner.com/en/experts/top-tech-trends-unpacked-series/platform-engineering-empowers-developers>
+- **Gartner.** (Ara 2024). *Tackling Trust, Risk and Security in AI Models.*  
 Erişim adresi: <https://www.gartner.com/en/articles/ai-trust-and-ai-risk>
+- **Gartner.** (Eki 2024). *Top Strategic Technology Trends 2025.*  
+Erişim adresi: <https://www.gartner.com/en/articles/top-technology-trends-2025>
+- **Gartner.** (t.y.). *Unlock Infrastructure Efficiency with Platform Engineering.*  
+Erişim adresi: <https://www.gartner.com/en/infrastructure-and-it-operations-leaders/topics/platform-engineering>
+
+- **Hogan Lovells.** (Tem 2025). *The EU Digital Operational Resilience Act (DORA): Top 7 Challenges for IT Vendors.*  
+Erişim adresi: <https://www.hoganlovells.com/en/publications/the-eu-digital-operational-resilience-act-dora-top-7-challenges-for-it-vendors>
 
 - **IBM.** (Haz 2025). *What Is AI TRiSM?.
 Erişim adresi: <https://www.ibm.com/think/topics/ai-trism>
@@ -46,9 +56,14 @@ Erişim adresi: <https://www.mckinsey.com/capabilities/risk-and-resilience/our-i
 Erişim adresi: <https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-financial-institutions-can-improve-their-governance-of-gen-ai>
 - **McKinsey & Company.** (Ağu 2025). *Is agentic AI a financial crime game changer?.
 Erişim adresi: <https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/is-agentic-ai-a-financial-crime-game-changer>
+- **McKinsey & Company.** (2025). *McKinsey on Risk & Resilience Report 2025.*  
+Erişim adresi: <https://www.mckinsey.com/~/media/mckinsey/business%20functions/risk/our%20insights/mckinsey%20on%20risk%20number%2019/mck_risk_issue19.pdf>
 
 - **Microsoft Source.** (Tem 2025). *CBA ChatIT generative AI support.
 Erişim adresi: <https://news.microsoft.com/source/asia/2025/07/01/commonwealth-banks-chatit-helps-employees-fix-it-issues-in-seconds-using-generative-ai/>
+
+- **Morgan, Lewis & Bockius LLP.** (2025). *Key Themes of Resiliency, Outsourcing and Third-Party Risk Management Regimes.*  
+Erişim adresi: <https://www.morganlewis.com/-/media/files/publication/outside-publication/article/2025/key-themes-of-resiliency-outsourcing-and-third-party-risk-management-regimes.pdf>
 
 - **Nature Sci. Reports.** (2025). *Multimodal emotion recognition in conversation.
 Erişim adresi: <https://www.nature.com/articles/s41598-025-89758-8>

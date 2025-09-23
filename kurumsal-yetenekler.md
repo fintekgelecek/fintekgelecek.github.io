@@ -76,8 +76,7 @@ Radar çıktıları, ekipleri ortak çalışmaya yönlendirir; benzer akışlar 
 - McKinsey’nin Haziran 2025 tarihli *Seizing the agentic AI advantage* raporu, mühendislik üretkenliğinde yeniden kullanımın pazara çıkış hızını doğrudan belirlediğini vurguluyor.  
 - McKinsey’nin aynı ay yayımladığı *Digital Banking: Speed, scale, and the agentic arms race* analizi, büyük organizasyonlarda iş çoğalmasının operasyonel maliyetlerin %10–15’ini oluşturduğunu aktarıyor.  
 - Accenture’un Ocak 2025 tarihli *Banking Top 10 Trends 2025* raporu, çalışan verimliliği kaybının finans sektöründe sessiz tükenişin ana nedenlerinden biri olduğunu belirtiyor.  
-- Gartner’ın 2025 tarihli *Platform Engineering & Developer Productivity* çalışması, ürün hattı bileşenleştirme ve “golden path”lerin ölçek etkisini öne çıkarırken; aynı kurumun Ekim 2024 tarihli *Top Strategic Technology Trends 2025* raporu, “Work Intelligence Systems” yaklaşımını kritik trendlerden biri olarak tanımlıyor.  
-- ISO 56002 standardı, inovasyon yönetiminde sistematik yeniden kullanımın önemini çerçeveliyor.  
+- Gartner’ın *Platform Engineering* içerikleri, ürün hattı bileşenleştirme ve geliştiricilere sunulan standart en iyi uygulama yollarının (“golden path”) ölçek etkisini öne çıkarırken; aynı kurumun *Top Strategic Technology Trends 2025* analizi, “Work Intelligence Systems” yaklaşımını kritik trendlerden biri olarak tanımlıyor.  
 
 Bu kaynaklar bir arada değerlendirildiğinde, iş kopyalarının ve bilgi sürüklenmesinin görünür kılınmasının hem verimlilik hem de motivasyon açısından bankacılık kurumlarında stratejik bir gereklilik olduğu görülüyor.  
 
@@ -148,11 +147,12 @@ Kritik kesinti ve kriz senaryolarında kurumun hazırlığını ölçmek amacıy
 Örneğin, kart kesintisi senaryosunda ajan destekli playbook devreye girerek izole-yeniden yönlendirme yapılır, müşteri iletişimi otomatikleşir ve kesinti sonrası kök neden analizi gerçekleştirilir.  
 
 **Trend ve Değerlendirme**  
-- ECB’nin 2025’te yürürlüğe giren *Digital Operational Resilience Act (DORA)* çerçevesi, gelişmiş tehdit-senaryosu tatbikatlarını zorunlu kılıyor.  
-- BIS’in 2025 tarihli *Cyber resilience practices* çalışması, finansal altyapılarda masaüstü ve teknik tatbikatların hibrit olarak uygulanmasını öneriyor.  
-- NIST’in Şubat 2024’te yayımladığı *Cybersecurity Framework 2.0* dokümanı, olay hazırlığı ve toparlanma yetkinliklerini ölçütlü hale getiriyor.  
+- DORA’nın (Digital Operational Resilience Act) 2025’te yürürlüğe girmesiyle birlikte kurumların sadece felaket senaryoları değil, **ödeme kesintisi, yoğun fraud girişimleri, API darboğazları gibi anlık operasyonel risklere yönelik tatbikatları** da sistematik hale getirmesi öngörülüyor.  
+- McKinsey’nin *Risk & Resilience Report 2025* raporu, finans kuruluşlarında “resilience war-gaming” yaklaşımının, kriz yaşanmadan önce süreçsel darboğazların keşfi için giderek daha fazla kullanıldığını vurguluyor.  
+- Hogan Lovells’ın *The EU Digital Operational Resilience Act (DORA): Top 7 Challenges for IT Vendors* değerlendirmesi, özellikle ödeme altyapısı ve müşteri iletişim akışlarında **AI destekli playbook’ların** kesinti anında otomatik aksiyon alabilmesi gerektiğini ortaya koyuyor.  
+- Morgan Lewis’ın *Key Themes of Resiliency, Outsourcing and Third-Party Risk Management Regimes* raporu, üçüncü taraf servis sağlayıcıların (ödeme geçitleri, fraud izleme vendor’ları) bu tatbikatlara dahil edilmesinin, bütünsel operasyonel dayanıklılık için kritik olduğunu belirtiyor.  
 
-Bu gelişmeler, sistemik risk ve itibar kaybını en aza indiren, veriye dayalı bir hazırlık kültürünün önemini gösteriyor.  
+Bu çerçevede operasyonel dayanıklılık tatbikatları, yalnızca olağanüstü afet senaryoları için değil, **günlük iş akışlarını kesintiye uğratabilecek süreçsel sorunları öngörmek ve genAI destekli hızlı müdahale yollarını denemek** için de kurum stratejilerinde öne çıkıyor.
 
 **Teknik Bileşenler**  
 - Senaryo / What-if Motoru (Scenario / What-if Engine)  
