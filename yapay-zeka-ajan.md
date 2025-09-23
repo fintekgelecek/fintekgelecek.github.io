@@ -189,7 +189,7 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Sahtekârlık engelleme ↑ · Kesin
 ## **6. Dijital Finansal Düşünce Ortağı (Co-Thinker)**
 
 **Tanım / Örnek Senaryo**  
-“Dijital Finansal Takma Akıl”, klasik bir ajan (agent) değil, karar destek ortağıdır. Kullanıcıya doğrudan “şunu yap” demek yerine, farklı açılardan düşünür, artı-eksi yönleriyle öneriler sunar. Amaç, rehberlik değil refleksiyon sağlamaktır. Örnek Senaryolar:  
+“Dijital Finansal Düşünce Ortağı”, klasik bir ajan (agent) değil, karar destek ortağıdır. Kullanıcıya doğrudan “şunu yap” demek yerine, farklı açılardan düşünür, artı-eksi yönleriyle öneriler sunar. Amaç, rehberlik değil refleksiyon sağlamaktır. Örnek Senaryolar:  
 
 - **Kullanım Senaryosu 1:** Kullanıcı “Bugün döviz almalı mıyım?” diye sorar → Sistem: “Almak mantıklı çünkü yarın maaşın yatıyor, likidite açığın yok. Ancak risk şu: kur volatilitesi yüksek, kısa vadede zarar görebilirsin.” der. 
 - **Kullanım Senaryosu 2:**  Müşteri “Krediyi yapılandırmalı mıyım?” der → Sistem: “Aylık ödemen düşer ama toplam maliyetin artar.” der.  
