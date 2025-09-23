@@ -1,6 +1,6 @@
 # Çerçeve ve İçerik Akışı
 
-Bu çalışma toplam 36 fikir içeriyor. Her bir fikri şu üç temel boyut üzerinden işledim:
+Bu çalışma toplam 36 fikir içeriyor. Her bir fikri dört temel başlık üzerinden işledim:
 
 - **Tanım / Örnek Senaryo:** Kavramın ne ifade ettiğini ve sahadaki olası kullanım durumunu anlattım.  
 - **Trend ve Değerlendirme:** Bu fikrin neden bugünün koşullarında kritik hâle geldiğini ve hangi trendlerle bağlantılı olduğunu tartıştım.  
