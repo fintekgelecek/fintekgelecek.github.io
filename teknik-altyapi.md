@@ -2,7 +2,7 @@
 
 Bu bölümde, finansal kurumların sunduğu hizmetleri ve iş yapış biçimlerini kökten değiştirebilecek yeni model önerilerini aktardım.
 
-## **28. Kuantum-Destekli Risk Simülasyonları (Quantum-Assisted Risk Simulations / Early Signals)**
+## 28. Kuantum-Destekli Risk Simülasyonları (Quantum-Assisted Risk Simulations / Early Signals)
 
 **Tanım / Örnek Senaryo**  
 Risk yönetiminde kullanılan **Monte Carlo simülasyonları**, milyonlarca olası senaryonun çalıştırılmasını gerektirir ve klasik bilgisayarlarda yoğun zaman ve işlem gücü tüketir.  
@@ -12,8 +12,8 @@ Risk yönetiminde kullanılan **Monte Carlo simülasyonları**, milyonlarca olas
 - Ayrıca, geleceğe dönük kritik bir alan olan **kuantum-güvenli kriptografi (PQC)** ve **kuantum anahtar dağıtımı (QKD)** için yol haritası hazırlanır; böylece “harvest-now, decrypt-later” (şimdi veriyi topla, ileride kuantumla çöz) riskine karşı uzun vadeli koruma sağlanır.  
 
 **Trend ve Değerlendirme**  
-- **World Economic Forum’un Temmuz 2025 tarihli *Quantum Technologies: Key Strategies and Opportunities for Financial Services Leaders* raporu** (Accenture iş birliğiyle), finansal hizmetlerde öne çıkan pilot kullanım alanlarını (dolandırıcılık tespiti, risk öngörüsü, kuantum-güvenli şifreleme) ve stratejik geçiş adımlarını özetliyor.  
-- **WEF’in Temmuz 2025 tarihli *Banking in the quantum technologies era* makalesi**, ticari kullanımın henüz sınırlı olduğunu ancak **kurumsal hazırlık ve PoC (Proof of Concept) çalışmalarının zamanının geldiğini** vurguluyor.  
+- World Economic Forum’un Temmuz 2025 tarihli *Quantum Technologies: Key Strategies and Opportunities for Financial Services Leaders* raporu (Accenture iş birliğiyle), finansal hizmetlerde öne çıkan pilot kullanım alanlarını (dolandırıcılık tespiti, risk öngörüsü, kuantum-güvenli şifreleme) ve stratejik geçiş adımlarını özetliyor.  
+- WEF’in Temmuz 2025 tarihli *Banking in the quantum technologies era* makalesi, ticari kullanımın henüz sınırlı olduğunu ancak **kurumsal hazırlık ve PoC (Proof of Concept) çalışmalarının zamanının geldiğini** vurguluyor.  
 
 Bu gelişmeler, kuantum bilişimin bugünden yaygın kullanılabilir olmamasına rağmen, **risk yönetimi ve güvenlik tarafında erken hazırlık yapan kurumların gelecekte ciddi avantaj elde edeceğini** gösteriyor.  
 
@@ -30,7 +30,7 @@ Senaryo üretim süresi ↓ · Arama uzayı kapsaması ↑ · Erken uyarı isabe
 
 ---
 
-## **29. Kendi Kendini İyileştiren Sistem (Self-Healing Banking Systems)**
+## 29. Kendi Kendini İyileştiren Sistem (Self-Healing Banking Systems)
 
 **Tanım / Örnek Senaryo**  
 Kendi kendini iyileştiren sistemler, bankacılık uygulamasını yalnızca bir işlem platformu olmaktan çıkararak **müşterinin finansal sağlığını uzun vadede iyileştirmeyi** hedefler.  
@@ -42,10 +42,10 @@ Kendi kendini iyileştiren sistemler, bankacılık uygulamasını yalnızca bir 
 Bu yaklaşım, bankacılığı statik bir hizmet sağlayıcı olmaktan çıkarır ve müşteriye **koçvari, proaktif bir destek sistemi** sunar.  
 
 **Trend ve Değerlendirme**  
-- **McKinsey’nin Mayıs 2025 tarihli *Autonomous Finance: Beyond automation to self-healing systems* raporu**, hiper-kişiselleşmenin bir sonraki aşamasının “davranış bazlı otomasyon” olduğunu vurguluyor.  
-- **Gartner’ın Ekim 2024 tarihli *Top Strategic Technology Trends 2025* raporu**, self-healing sistemleri dijital hizmetlerde müşteri memnuniyetini artıran özerk altyapı trendi olarak tanımlıyor.  
-- **Accenture’un Ocak 2025 tarihli *Banking Top 10 Trends 2025* raporu**, tekrarlayan müşteri sorunlarının giderilmesinin operasyonel maliyetleri %15’e kadar azaltabileceğini ortaya koyuyor.  
-- **WSJ’nin Mart 2025 tarihli *Banks Tackle Customer Friction With Self-Optimizing Systems* makalesi**, müşteri sürtünme noktalarının kendi kendine çözümlenmesinin bankalara rekabet avantajı sağladığını belirtiyor.  
+- McKinsey’nin Mayıs 2025 tarihli *Autonomous Finance: Beyond automation to self-healing systems* raporu, hiper-kişiselleşmenin bir sonraki aşamasının “davranış bazlı otomasyon” olduğunu vurguluyor.  
+- Gartner’ın Ekim 2024 tarihli *Top Strategic Technology Trends 2025* raporu, self-healing sistemleri dijital hizmetlerde müşteri memnuniyetini artıran özerk altyapı trendi olarak tanımlıyor.  
+- Accenture’un Ocak 2025 tarihli *Banking Top 10 Trends 2025* raporu, tekrarlayan müşteri sorunlarının giderilmesinin operasyonel maliyetleri %15’e kadar azaltabileceğini ortaya koyuyor.  
+- WSJ’nin Mart 2025 tarihli *Banks Tackle Customer Friction With Self-Optimizing Systems* makalesi, müşteri sürtünme noktalarının kendi kendine çözümlenmesinin bankalara rekabet avantajı sağladığını belirtiyor.  
 
 Bu gelişmeler, bankacılığın yalnızca işlem kolaylığı değil, **müşteri davranışlarını iyileştirerek kalıcı değer yaratma** aşamasına geçtiğini gösteriyor.  
 
@@ -62,7 +62,7 @@ STP ↑ · AHT ↓ · FCR ↑ · NPS ↑ · Operasyonel kesinti ↓
 
 ---
 
-## **30. Regülasyon Uyumlu AI Model Marketi (Regulation-Compliant AI Model Marketplace)**
+## 30. Regülasyon Uyumlu AI Model Marketi (Regulation-Compliant AI Model Marketplace)
 
 **Tanım / Örnek Senaryo**  
 Regülasyon uyumlu model marketi, bankanın içinde kurulan ve **teknik kalite ile etik/regülasyon uygunluğu onaylanmış AI modellerini** barındıran bir yapıdır. Ekipler, yeni ürün ya da servis geliştirmek istediklerinde bu marketten model seçer, sıfırdan geliştirmek yerine sertifikalı modellerin üzerine özelleştirme yapar.  
@@ -74,9 +74,9 @@ Regülasyon uyumlu model marketi, bankanın içinde kurulan ve **teknik kalite i
 Bu yapı, AI modellerinin kontrolsüz çoğaltılmasını, regülasyona aykırı kullanımını veya etik sorunların ortaya çıkmasını engeller; tüm modellerin **tek bir kalite ve uyum çerçevesinde yönetilmesini** sağlar.  
 
 **Trend ve Değerlendirme**  
-- **McKinsey’nin Mart 2025 tarihli *How financial institutions can improve their governance of gen AI* raporu**, finans kurumlarının düzenli model risk puanlaması ve kontrol mekanizmaları kurmaları gerektiğini vurguluyor.  
-- **Gartner’ın Aralık 2024 tarihli *Tackling Trust, Risk and Security in AI Models* çalışması**, AI TRiSM çerçevesiyle modellerin yaşam döngüsünde güvenlik, etik ve doğruluğun yönetimini öneriyor.  
-- **IBM’in Haziran 2025 tarihli *What Is AI TRiSM?* makalesi**, model şeffaflığı, izlenebilirlik ve regülasyon uyumluluğunu hızla yükselen bir kurumsal öncelik olarak ele alıyor.  
+- McKinsey’nin Mart 2025 tarihli *How financial institutions can improve their governance of gen AI* raporu, finans kurumlarının düzenli model risk puanlaması ve kontrol mekanizmaları kurmaları gerektiğini vurguluyor.  
+- Gartner’ın Aralık 2024 tarihli *Tackling Trust, Risk and Security in AI Models* çalışması, AI TRiSM çerçevesiyle modellerin yaşam döngüsünde güvenlik, etik ve doğruluğun yönetimini öneriyor.  
+- IBM’in Haziran 2025 tarihli *What Is AI TRiSM?* makalesi, model şeffaflığı, izlenebilirlik ve regülasyon uyumluluğunu hızla yükselen bir kurumsal öncelik olarak ele alıyor.  
 
 Bu gelişmeler, **AI kullanımının ölçeklenmesinde güvenlik ve uyumun artık yalnızca teknik değil, stratejik bir zorunluluk olduğunu** gösteriyor.  
 
