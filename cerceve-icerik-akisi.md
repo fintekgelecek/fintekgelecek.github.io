@@ -16,7 +16,6 @@ Bunlara ek olarak, metnin bütününü desteklemek için dört ayrı bölüm haz
 Her fikirde anılan teknolojik bileşenleri ayrıca bir “sözlük” bölümünde detaylandırdım. Örneğin; 
 
 - **API Gateway — API Geçidi**: Farklı servislerin tek bir giriş noktası üzerinden yönetilmesini sağlayan, güvenlik, yönlendirme, hız sınırlama ve izleme gibi yetenekler sunan bir ara katman bileşeni.  
-
 - **Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**: Kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşeni.  
 
 Bu sözlüğü, yazıda geçen kavramların teknik zeminini merak eden okuyucular için bir referans olarak kurguladım.
