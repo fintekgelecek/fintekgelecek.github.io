@@ -85,7 +85,7 @@ Embeddings, metin, görsel veya diğer verileri matematiksel vektörlere dönü�
 ---
 
 ## Denetim, Uyum & Güvenlik  
-- **Human-in-the-Loop (HITL) — İnsan Döngüde**  
+- **Human-in-the-Loop (HITL) — İnsan Denetim Adımları**  
 HITL, makine öğrenimi ve yapay zekâ sistemlerinde kritik karar noktalarında insan uzmanların sürece dâhil edilmesini sağlayan yaklaşımdır; böylece model çıktılarının güvenilirliği ve etik uygunluğu artırılır.  
 - **Immutable Audit Log / Audit Trail — Değiştirilemez Denetim Kaydı**  
 Immutable audit log, bir sistemde yapılan tüm işlemleri değiştirilemez ve silinemez şekilde kaydeden yapıdır; kullanıcı, işlem, zaman ve sonuç bilgilerini geri dönülmez biçimde saklayarak şeffaflık ve hesap verebilirlik sağlar.  
