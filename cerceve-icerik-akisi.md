@@ -43,8 +43,8 @@ Bu bölümde fikirlerin Türkiye bağlamında uygulanabilirliğine odaklandım. 
 
 Yazının tamamını, küresel ve yerel ölçekte kaynaklarla destekledim. Örnekler:
 
-- Accenture. (Şub 2025). *Reimagining Customer Journeys in Financial Services*.  
-  Erişim adresi: <https://www.accenture.com/insights/banking/customer-journeys-finance>  
+- Accenture. (Oca 2025). *Banking Top 10 Trends 2025.*  
+  Erişim adresi: <https://www.accenture.com/us-en/insights/banking/top-10-trends-banking-2025>  
 
 - McKinsey & Company. (Haz 2025). *The future of customer experience: embracing agentic AI*.  
   Erişim adresi: <https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-customer-experience-embracing-agentic-ai>
