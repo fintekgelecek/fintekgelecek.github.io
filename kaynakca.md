@@ -1,4 +1,4 @@
-# Kaynakça — Doğrudan URL
+# Kaynakça
 
 - **Accenture.** (Oca 2025). *Banking Top 10 Trends 2025.
 Erişim adresi: <https://www.accenture.com/us-en/insights/banking/top-10-trends-banking-2025>

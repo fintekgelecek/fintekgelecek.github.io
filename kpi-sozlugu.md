@@ -22,7 +22,7 @@ Bu nedenle rapordaki başlıkları okurken, burada sunduğum KPI listesiyle birl
 
 ---
 
-## 1. Müşteri Deneyimi
+## Müşteri Deneyimi
 - **AHT (Average Handle Time) ↓** – Ortalama işlem/görüşme süresi azalır, müşteri daha hızlı hizmet alır.  
 - **CES (Customer Effort Score) ↓** – Müşteri çabası azalır, işlemler daha kolay ve zahmetsiz hale gelir.  
 - **Drop-off oranı ↓** – Kullanıcıların işlem veya ekranı terk etme oranı düşer, süreçler daha çok tamamlanır.  
@@ -34,7 +34,7 @@ Bu nedenle rapordaki başlıkları okurken, burada sunduğum KPI listesiyle birl
 
 ---
 
-## 2. Operasyonel Verimlilik
+## Operasyonel Verimlilik
 - **Adım sayısı ↓** – Bir sürecin tamamlanması için gereken işlem adımları azalır.  
 - **Çağrı merkezi maliyetleri ↓** – Çağrı merkezi operasyonları daha ucuz hale gelir.  
 - **Eğitim tamamlama oranı ↑** – Çalışanların eğitim süreçlerini bitirme oranı yükselir.  
@@ -48,7 +48,7 @@ Bu nedenle rapordaki başlıkları okurken, burada sunduğum KPI listesiyle birl
 
 ---
 
-## 3. Risk & Güven
+## Risk & Güven
 - **Çalışan bağlılığı ↑** – Çalışanların kuruma olan aidiyet ve motivasyonu artar.  
 - **Profil/regülasyon uyumsuz model riski ↓** – Yasal düzenlemelere aykırı model kullanım riski azalır.  
 - **Reputasyon riski ↓** – Bankanın itibarını zedeleyen olaylar daha az yaşanır.  
@@ -60,7 +60,7 @@ Bu nedenle rapordaki başlıkları okurken, burada sunduğum KPI listesiyle birl
 
 ---
 
-## 4. Gelir & Büyüme
+## Gelir & Büyüme
 - **Ekosistem gelir katkısı ↑** – Banka dışı iş ortaklarıyla yaratılan ek gelir artar.  
 - **Gelir/çalışan oranı ↑** – Çalışan başına üretilen gelir artar, verimlilik yükselir.  
 - **Gelir/segment başına maliyet oranı iyileşmesi ↑** – Segment bazlı kârlılık artar, maliyet optimizasyonu sağlanır.  
@@ -73,14 +73,14 @@ Bu nedenle rapordaki başlıkları okurken, burada sunduğum KPI listesiyle birl
 
 ---
 
-## 5. Çalışan & Organizasyon
+## Çalışan & Organizasyon
 - **Bilgi sürüklenmesi ↓** – Kurum içi bilgi kaybı ve dağınıklık azalır.  
 - **Çalışan yorgunluğu ↓** – Çalışanlarda yorgunluk ve verim düşüklüğü azalır.  
 - **İç hareketlilik oranı ↑** – Çalışanların kurum içi farklı pozisyonlara geçiş oranı artar.  
 
 ---
 
-## 6. Kullanıcı & Etkileşim
+## Kullanıcı & Etkileşim
 - **API çağrı hacmi ↑** – API üzerinden yapılan işlem sayısı artar.  
 - **ATM/gişe dağılım verimliliği ↑** – ATM ve gişe işlemlerinin dengeli dağılımı artar.  
 - **Geliştirici katılım oranı ↑** – API ve platformlara katılan geliştirici sayısı artar.  
