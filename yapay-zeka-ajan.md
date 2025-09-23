@@ -2,7 +2,7 @@
 
 Bu bölümde, yapay zekânın finansal hizmet süreçlerini nasıl dönüştürdüğüne odaklanan fikirleri topladım.
 
-## **1. Otonom Finansal Ajanlar (Autonomous Finance Agents)**
+## 1. Otonom Finansal Ajanlar (Autonomous Finance Agents)
 
 **Tanım / Örnek Senaryo**  
 Otonom finansal ajanlar, müşteri hedeflerini esas alarak karar alabilen, eylem tetikleyen ve süreçleri kendi kendine orkestre eden yeni nesil yapay zekâ bileşenleridir. Ajan, müşterinin aylık nakit akışını, yaklaşan fatura ve borçlarını, kart kesim tarihlerini ve piyasa koşullarını izler. Belirlenen hedefler doğrultusunda (likidite ≥ X, gecikme = 0, birikim = Y) planlama yapar ve gerekli eylemleri (ödeme talimatı, vadeliye geçiş, mikro-yatırım) kendi başına tetikler. Ardından denetim kaydı üretir, geri alma seçeneği sunar ve müşteriyi bilgilendirir.  
@@ -33,7 +33,7 @@ STP ↑ · AHT ↓ · FCR ↑ · NPS ↑ · Operasyonel kesinti ↓
 
 ---
 
-## **2. Kişiselleştirilmiş AI Bankacı (Tokenize Finansal Kimlik)**
+## 2. Kişiselleştirilmiş AI Bankacı (Tokenize Finansal Kimlik)
 
 **Tanım / Örnek Senaryo**  
 Müşteriye ait ve bankanın içinde çalışan bir “dijital bankacı” persona tanımlanır. Bu persona; risk iştahı, iletişim tonu, ödeme disiplini, hedefler ve yasaklar ile yapılandırılır.  
@@ -66,7 +66,7 @@ Kişiselleştirilmiş teklif dönüşümü ↑ · Proaktif etkileşim ↑ · İl
 
 ---
 
-## **3. Intent-First Bankacılık (Niyet Tabanlı Orkestrasyon)**
+## 3. Intent-First Bankacılık (Niyet Tabanlı Orkestrasyon)
 
 **Tanım / Örnek Senaryo**  
 Bugüne kadar dijital bankacılık sistemleri **API-first** mantığıyla kurgulandı: belirli bir işlem yapmak için kullanıcı doğru endpoint’i çağırmak zorundaydı. **Intent-first** yaklaşımında ise kullanıcı niyetini belirtir, sistem geri kalan işlemleri kendi başına orkestre eder.  
@@ -106,7 +106,7 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Operasyonel kesinti ↓ · Gelir/ça
 
 ---
 
-## **4. Yapay Zekâyla Yönetilen Mikrobankalar**
+## 4. Yapay Zekâyla Yönetilen Mikrobankalar
 
 **Tanım / Örnek Senaryo**  
 Müşteri onboarding sırasında AI tabanlı bir **mikro-banka kurulum asistanı** ile karşılaşır. Burada amaç “Her müşteri kendi bankasını yaratır” fikri ile, klasik “tek tip ürün/arayüz” yaklaşımının dışında bir hizmet sunmaktır. Mikro-banka kurulum asistanı, müşterinin:  
@@ -149,7 +149,7 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Operasyonel kesinti ↓ · Gelir/ça
 
 ---
 
-## **5. Zincirleme Finansal Ajanlar (Multi-Agent Orchestration)**
+## 5. Zincirleme Finansal Ajanlar (Multi-Agent Orchestration)
 
 **Tanım / Örnek Senaryo**  
 “Zincirleme Finansal Ajanlar”, farklı uzmanlık rollerinde çalışan birden fazla AI ajanın çıktılarının orkestre edildiği yapıdır. Tek bir “süper ajan” yerine, her biri belirli göreve odaklanan mikro-ajanlar aynı bağlam üzerinde iş birliği yapar. Örneğin,
@@ -186,7 +186,7 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Sahtekârlık engelleme ↑ · Kesin
 
 ---
 
-## **6. Dijital Finansal Düşünce Ortağı (Co-Thinker)**
+## 6. Dijital Finansal Düşünce Ortağı (Co-Thinker)
 
 **Tanım / Örnek Senaryo**  
 “Dijital Finansal Düşünce Ortağı”, klasik bir ajan (agent) değil, karar destek ortağıdır. Kullanıcıya doğrudan “şunu yap” demek yerine, farklı açılardan düşünür, artı-eksi yönleriyle öneriler sunar. Amaç, rehberlik değil refleksiyon sağlamaktır. Örnek Senaryolar:  
@@ -216,7 +216,7 @@ NPS ↑ · FCR ↑ · AHT ↓ · Müşteri bağımsızlık skoru ↑ · Operasyo
 
 ---
 
-## **7. AI-Driven Governance (Kurum Kendi Kendini Yönetir)**
+## 7. AI-Driven Governance (Kurum Kendi Kendini Yönetir)
 
 **Tanım / Örnek Senaryo**  
 “AI-Driven Governance”, kurum içi yönetişim mekanizmalarının bir kısmının otonom AI sistemlerine devredilmesi yaklaşımıdır. İnsan politika ve çerçeveyi belirlerken, uygulama ve taktiksel karar alma süreçleri yapay zekâ tarafından yürütülür. Bu yalnızca süreç otomasyonu değil, organizasyonel özerklik sağlar. Örnek Senaryolar:
