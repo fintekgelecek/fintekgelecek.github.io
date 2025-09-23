@@ -2,11 +2,12 @@
 
 Bu çalışma toplam 36 fikir içeriyor. Her bir fikri şu üç temel boyut üzerinden işledim:
 
-- **Tanım / Örnek Senaryo** — Kavramın ne ifade ettiğini ve sahadaki olası kullanım durumunu anlattım.  
-- **Neden Şimdi?** — Bu fikrin neden bugünün koşullarında kritik hâle geldiğini ve hangi trendlerle bağlantılı olduğunu tartıştım.  
-- **Teknik Bileşenler** — Fikrin arkasındaki teknolojik yapı taşlarını listeledim.  
-- **Ölçülebilir Etki (KPI)** - Fikrin sahada yarattığı değeri somut göstergeler üzerinden nasıl izleyip değerlendirebileceğimizi tanımladım.
-Bunlara ek olarak, metnin bütününü desteklemek için dört ayrı bölüm daha hazırladım.
+- **Tanım / Örnek Senaryo:** Kavramın ne ifade ettiğini ve sahadaki olası kullanım durumunu anlattım.  
+- **Trend ve Değerlendirme:** Bu fikrin neden bugünün koşullarında kritik hâle geldiğini ve hangi trendlerle bağlantılı olduğunu tartıştım.  
+- **Teknik Bileşenler:** Fikrin arkasındaki teknolojik yapı taşlarını listeledim.  
+- **Ölçülebilir Etki (KPI):** Fikrin sahada yarattığı değeri somut göstergeler üzerinden nasıl izleyip değerlendirebileceğimizi tanımladım.  
+
+Bunlara ek olarak, metnin bütününü desteklemek için dört ayrı bölüm hazırladım.
 
 ---
 
@@ -16,7 +17,7 @@ Her fikirde anılan teknolojik bileşenleri ayrıca bir “sözlük” bölümü
 
 - **API Gateway — API Geçidi**: Farklı servislerin tek bir giriş noktası üzerinden yönetilmesini sağlayan, güvenlik, yönlendirme, hız sınırlama ve izleme gibi yetenekler sunan bir ara katman bileşeni.  
 
--**Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**: Kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşeni.  
+- **Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**: Kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşeni.  
 
 Bu sözlüğü, yazıda geçen kavramların teknik zeminini merak eden okuyucular için bir referans olarak kurguladım.
 
@@ -51,6 +52,6 @@ Yazının tamamını, küresel ve yerel ölçekte kaynaklarla destekledim. Örne
 
 ---
 
-Özetle her bir fikri dört boyut üzerinden işledim: **Tanım / Örnek Senaryo**, **Neden Şimdi?** ve **Teknik Bileşenler** ve **Ölçülebilir Etki (KPI)**. Bunun yanında hazırladığım **Teknik Bileşenler Sözlüğü**, **KPI (Ölçülebilir Etki) Sözlüğü**, **Türkiye Uyarlaması** ve **Kaynakça** bölümleri çalışmayı tamamlayan ek katmanlar oldu.  
+Özetle her bir fikri dört boyut üzerinden işledim: **Tanım / Örnek Senaryo**, **Trend ve Değerlendirme** ve **Teknik Bileşenler** ve **Ölçülebilir Etki (KPI)**. Bunun yanında hazırladığım **Teknik Bileşenler Sözlüğü**, **KPI (Ölçülebilir Etki) Sözlüğü**, **Türkiye Uyarlaması** ve **Kaynakça** bölümleri çalışmayı tamamlayan ek katmanlar oldu.  
 
 Okuyucunun yalnızca ilham verici konseptlerle değil; bu fikirlerin teknik zemini, ölçülebilir etki alanları ve Türkiye’ye özgü düzenleyici/etik çerçevesiyle birlikte düşünmesini istedim. Belirttiğim gibi bu çalışma **uygulanabilir bir yol haritası iddiası taşımıyor**; amaç, tartışmayı besleyen ve perspektif açan bir çerçeve sunmak.
