@@ -2,10 +2,10 @@
 
 Bu bölümde, müşteri verilerini analiz ederek içgörüler üretmeye, davranışları anlamaya ve hiper-kişiselleştirme sağlamaya yönelik fikirleri derledim.
 
-## **17. Veriyle Konuşan Arayüz (NLQ / NLBI – Conversational Data Interface)**
+## 17. Veriyle Konuşan Arayüz (NLQ / NLBI – Conversational Data Interface)
 
 **Tanım / Örnek Senaryo**  
-Bugünün mobil bankacılığında müşteri ekstreye bakar, grafikleri inceler fakat veriye “soru soramaz”. NLQ (Natural Language Query – Doğal Dil Sorgulama) ve NLBI (Natural Language Business Intelligence – Doğal Dil İş Zekâsı) tabanlı yeni nesil arayüzler bu eksiği kapatır:  
+Bugünün mobil bankacılığında müşteri ekstreye bakar, grafikleri inceler fakat veriye “soru soramaz”. Veriyle Konuşan Arayüz uygulamalarında ise NLQ (Natural Language Query – Doğal Dil Sorgulama) ve NLBI (Natural Language Business Intelligence – Doğal Dil İş Zekâsı) tabanlı yeni nesil arayüzler bu eksiği kapatır.  
 - **Harcama analizi**: “Geçen sene market harcamam neydi?” sorusunda yalnızca rakam değil, grafik, trend ve mevsimsel değişim sunulur.  
 - **Tasarruf sorgusu**: “Bu ay tasarruf etmiş miyim?” sorusunda yalnızca bakiye değil, önceki aylarla kıyaslama ve tasarruf oranı gösterilir.  
 - **Tahmin senaryosu**: “Bu gidişle yıl sonuna kadar kaç lira biriktirebilirim?” sorusuna öngörülü senaryolarla yanıt verilir.  
@@ -14,19 +14,19 @@ Bugünün mobil bankacılığında müşteri ekstreye bakar, grafikleri inceler 
 Böylece hem müşteri hem çalışan, veriyi anlamlandırarak karar alır.  
 
 **Trend ve Değerlendirme**  
-**McKinsey’nin Haziran 2025 tarihli raporları**, agentik AI’ın otomasyonun ötesine geçerek veriyle doğal etkileşim sağladığını ortaya koyuyor.  
-**Gartner’ın Ekim 2024 tarihli *Top Strategic Technology Trends* raporu**, NLQ/NLBI tabanlı etkileşimlerin stratejik teknoloji trendleri arasında olduğunu belirtiyor.  
-**Accenture’un 2025 tarihli *Banking Top 10 Trends* raporu**, doğal dil tabanlı veri diyaloglarının müşteri memnuniyetini %15 artırıp operasyonel sorgulama maliyetlerini %30 azalttığını hesaplıyor.  
-**WSJ’nin Haziran 2025 tarihli *Digital Workers Have Arrived in Banking* makalesi**, kurumsal tarafta dijital çalışanların insan benzeri sorgu-yanıt kabiliyetine ihtiyaç duyduğunu örneklerle aktarıyor.  
+2025 itibarıyla bankacılıkta veriye erişim otomasyonun ötesine geçerek doğal dil etkileşimlerine kayıyor:  
+- Gartner’ın Ekim 2024 tarihli *Top Strategic Technology Trends* raporu, NLQ/NLBI tabanlı etkileşimlerin stratejik teknoloji trendleri arasında olduğunu belirtiyor.  
+- Accenture’un 2025 tarihli *Banking Top 10 Trends* raporu, doğal dil tabanlı veri diyaloglarının müşteri memnuniyetini %15 artırıp operasyonel sorgulama maliyetlerini %30 azalttığını hesaplıyor.  
+- WSJ’nin Haziran 2025 tarihli *Digital Workers Have Arrived in Banking* makalesi, kurumsal tarafta dijital çalışanların insan benzeri sorgu-yanıt kabiliyetine ihtiyaç duyduğunu örneklerle aktarıyor.  
 
-Bu gelişmeler, bankacılıkta veriye erişimin yalnızca raporlama değil, doğal dil diyalogları üzerinden gerçekleşeceğini gösteriyor.  
+Bu raporlar birlikte değerlendirildiğinde, bankacılıkta veriye erişimin yalnızca raporlama değil, doğal dil diyalogları üzerinden gerçekleşeceği görülüyor.  
 
 **Teknik Bileşenler**  
-- NLQ/NLBI motorları: SQL/OLAP katmanı üzerinde doğal dil parser  
+- Doğal Dil Sorgu / Doğal Dil İş Zekâsı Motorları (NLQ / NLBI Engines)  
 - RAG (Retrieval-Augmented Generation): Doğal dil sorularını bankacılık veri modelleriyle eşleştirmek  
 - Guardrails: Prompt doğrulama, veri maskeleme, yanıt güvenliği  
-- Observability: Yanıt kalitesi, güvenlik metrikleri, anomali tespiti  
-- IAM/ABAC: Hassas veriye erişimde kimlik ve rol kontrolü  
+- Observability (Telemetry, Metrics, Traces): Yanıt kalitesi, güvenlik metrikleri, anomali tespiti  
+- Kimlik ve Erişim Yönetimi / Öznitelik Tabanlı Erişim Kontrolü (IAM / ABAC)
 - Immutable audit log: Tüm sorgu ve yanıtların değiştirilemez kaydı  
 
 **Ölçülebilir Etki (KPI)**  
@@ -34,7 +34,7 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Çağrı merkezi maliyetleri ↓ · 
 
 ---
 
-## **18. Finansal Gölgeler (Behavioral Risk Signals)**
+## 18. Finansal Gölgeler (Behavioral Risk Signals)
 
 **Tanım / Örnek Senaryo**  
 “Finansal gölge” kavramı, kullanıcının farkında olmadan bıraktığı dijital izleri risk analizi için değerlendirmeyi ifade eder.  
@@ -42,13 +42,13 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Çağrı merkezi maliyetleri ↓ · 
 - **Borç kapatma davranışı**: Bir müşteri son bir ayda “borç kapatma” sayfasına 6 kez girip çıkıyorsa, bu likidite sıkışıklığının habercisi olarak yorumlanır. Sistem, müşteriye esnek ödeme planı önerir veya erken uyarı bildirimi sunar.  
 - **Yatırım kararsızlığı**: Yatırım ekranlarında uzun süre kalıp işlem yapmayan müşteri için sistem, “yatırım danışmanı ajan” üzerinden düşük riskli ürünleri öne çıkarır.  
 
-Bu yaklaşım, “dijital beden dili”ni finansal davranış sinyallerine çevirmek anlamına gelir.  
+Bu yaklaşım, dijital beden dilini finansal davranış sinyallerine çevirmek anlamına gelir.  
 
 **Trend ve Değerlendirme**  
-**McKinsey’nin Temmuz 2025 tarihli *Behavioral data as the next frontier in financial services* raporu**, davranışsal analitiği müşteri memnuniyetinde kritik fark yaratacak yeni veri katmanı olarak tanımlıyor.  
-**Gartner’ın Ekim 2024 tarihli *Top Strategic Technology Trends* raporu**, dijital bankacılığın geleceğinde davranışsal risk skorlamasını öncelikli inovasyon alanı olarak işaret ediyor.  
-**WSJ’nin Mayıs 2025 tarihli *Banks Tap Behavioral Data to Spot Risks Early* makalesi**, finans kurumlarının klasik KYC’nin ötesine geçerek “continuous behavioral monitoring” ile erken risk tespitine yöneldiğini aktarıyor.  
-**Accenture’un 2025 tarihli *Banking Top 10 Trends* raporu** da davranışsal veri katmanlarının rekabet avantajı yarattığını vurguluyor.  
+- McKinsey’nin Temmuz 2025 tarihli *Behavioral data as the next frontier in financial services* raporu, davranışsal analitiği müşteri memnuniyetinde kritik fark yaratacak yeni veri katmanı olarak tanımlıyor.  
+- Gartner’ın Ekim 2024 tarihli *Top Strategic Technology Trends* raporu, dijital bankacılığın geleceğinde davranışsal risk skorlamasını öncelikli inovasyon alanı olarak işaret ediyor.  
+- WSJ’nin Mayıs 2025 tarihli *Banks Tap Behavioral Data to Spot Risks Early* makalesi, finans kurumlarının klasik KYC’nin ötesine geçerek “continuous behavioral monitoring” ile erken risk tespitine yöneldiğini aktarıyor.  
+- Accenture’un 2025 tarihli *Banking Top 10 Trends* raporu, davranışsal veri katmanlarının rekabet avantajı yarattığını vurguluyor.  
 
 Bu gelişmeler, bankaların müşteri riskini yalnızca finansal geçmişe değil, anlık dijital davranışlara bakarak öngöreceğini gösteriyor.  
 
@@ -57,7 +57,7 @@ Bu gelişmeler, bankaların müşteri riskini yalnızca finansal geçmişe deği
 - Behavioral analytics engine: Dijital beden dili sinyallerini risk skoruna çevirmek  
 - Context/RAG: Davranış verisini müşteri profiliyle zenginleştirmek  
 - Policy-as-code: Risk sinyallerinin hangi durumda aksiyona dönüşeceğini kodla tanımlamak  
-- IAM/ABAC: Erişim ve veri kullanım yetkilerini kural bazlı denetlemek  
+- Kimlik ve Erişim Yönetimi / Öznitelik Tabanlı Erişim Kontrolü (IAM / ABAC)
 - Immutable audit log: Davranışsal veriden alınan kararların kayıt altına alınması  
 
 **Ölçülebilir Etki (KPI)**  
@@ -65,10 +65,10 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Fraud önleme ↑ · Operasyonel kes
 
 ---
 
-## **19. Finansal Arketipler (Behavioral Personas)**
+## 19. Finansal Arketipler (Behavioral Personas)
 
 **Tanım / Örnek Senaryo**  
-“Finansal Arketipler”, klasik demografik etiketlerin ötesine geçerek, kullanıcı davranış motiflerinden türeyen dinamik personae tanımlar. Bu sistem geçmiş ve güncel etkileşimlerden beslenir, AI ile sürekli güncellenir:  
+“Finansal Arketipler”, klasik demografik etiketlerin ötesine geçerek, kullanıcı davranış motiflerinden türeyen dinamik personalar tanımlar. Bu sistem geçmiş ve güncel etkileşimlerden beslenir, AI ile sürekli güncellenir:  
 - **Arketip-1: “Erteler ama öder”** → Kredi kartı ekstresini hep son gün öder, geciktirmez. Sistem hatırlatmaları daha erken yapar, limit artırımı önermez.  
 - **Arketip-2: “Planlar ama uygulamaz”** → Bütçe hedefi koyar ama tutturamaz. Sistem, otomatik tasarruf aracı önerir, karmaşık yatırım ekranlarını geri plana atar.  
 - **Arketip-3: “Anlık karar verir, pişman olmaz”** → Volatilite dönemlerinde hızlı işlem yapar. Sistem ona fırsat bazlı öneriler sunar, risk uyarılarını sadeleştirir.  
@@ -76,38 +76,41 @@ NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Fraud önleme ↑ · Operasyonel kes
 Arketipler sabit segmentler değil, dinamik olarak güncellenen davranış etiketleridir. Böylece müşteri deneyimi kişisel değil, davranışsal motif üzerinden şekillenir.  
 
 **Trend ve Değerlendirme**  
-**McKinsey’nin 2025 tarihli *Beyond Demographics* raporu**, davranış bazlı segmentasyonun klasik segmentasyona göre %30 daha yüksek dönüşüm sağladığını belirtiyor.  
-**Gartner’ın 2024 tarihli *Adaptive UX in Financial Services* raporu**, dinamik persona kullanımının bağlamsal önerilerde %40 artış yarattığını ortaya koyuyor.  
-**Accenture’un 2025 tarihli *Behavioral Banking* raporu**, davranış tabanlı modellerin kredi risk tespitinde %18 daha fazla doğruluk sağladığını hesaplıyor.  
-**WSJ 2025**, bankaların davranış verilerini risk yönetiminde kullanma eğilimini vurguluyor.  
+2025 itibarıyla davranış bazlı segmentasyon ve modeller, bankacılıkta dönüşüm ve risk yönetiminde öne çıkıyor:  
+- McKinsey’nin 2025 tarihli *Beyond Demographics* raporu, davranış bazlı segmentasyonun klasik segmentasyona göre %30 daha yüksek dönüşüm sağladığını belirtiyor.  
+- Gartner’ın 2024 tarihli *Adaptive UX in Financial Services* raporu, dinamik persona kullanımının bağlamsal önerilerde %40 artış yarattığını ortaya koyuyor.  
+- Accenture’un 2025 tarihli *Behavioral Banking* raporu, davranış tabanlı modellerin kredi risk tespitinde %18 daha fazla doğruluk sağladığını hesaplıyor.  
+
+Bu raporlar birlikte değerlendirildiğinde, davranış temelli segmentasyon ve analitiklerin hem müşteri dönüşümünü hem de risk yönetimini güçlendirdiği görülüyor.  
 
 **Teknik Bileşenler**  
-- Event-driven mikroservisler (davranış verisi pipeline)  
-- Feature store (davranış özelliklerinin merkezi saklanması)  
-- Dynamic Persona Engine (davranış tabanlı persona güncelleyici)  
-- RAG + güvenli prompt katmanı (AI açıklama üretimi)  
-- IAM/ABAC (erişim kontrolü)  
-- Explainability katmanı (arketip atamasını müşteriye şeffaf sunmak)  
-- Immutable audit log (davranış karar zinciri kaydı)  
+- Olay Tabanlı Mikroservisler (Event-driven Microservices) - Davranış Verisi İşleme Akışı
+- Feature store (Davranış özelliklerinin merkezi saklanması)  
+- Dynamic Persona Engine (Davranış tabanlı persona güncelleyici)  
+- Bilgi Getirmeli Üretim + Güvenli Prompt Katmanı (RAG + Secure Prompt Layer)  
+- Kimlik ve Erişim Yönetimi / Öznitelik Tabanlı Erişim Kontrolü (IAM / ABAC)  
+- Açıklanabilirlik Katmanı (Explainability Layer) - Akretip atamasını müşteriye şeffaf sunmak  
+- Değiştirilemez Denetim Kaydı (Immutable Audit Log)  
 
 **Ölçülebilir Etki (KPI)**  
 NPS ↑ · STP ↑ · AHT ↓ · FCR ↑ · Fraud önleme ↑ · Kampanya dönüşüm oranı ↑  
 
 ---
 
-## **20. Sinyal Bankacılığı (Signal-Based Banking)**
+## 20. Sinyal Bankacılığı (Signal-Based Banking)
 
 **Tanım / Örnek Senaryo**  
-Sinyal bankacılığı, kullanıcının doğrudan işlem yapmadığı durumlarda bile dijital davranışlarından üretilen mikro-sinyalleri yorumlayarak proaktif hizmet sunar. Sistem, uygulamanın açılma sıklığı, ekranlarda gezinme hızı ve bildirimlere verilen tepki gibi göstergeleri analiz eder, bunları bağlamsal ihtiyaç sinyallerine dönüştürür.  
-- Örneğin müşteri sürekli kart borcu ekranına bakıyor ama işlem yapmıyorsa, bu “kararsızlık” sinyali olarak değerlendirilir ve sistem kişiselleştirilmiş öneriler sunar.  
-- Benzer şekilde, yatırım ekranlarında sıkça gezinen ama işlem yapmayan bir kullanıcıya sadeleştirilmiş ürün karşılaştırmaları gösterilebilir.  
-- Böylece bankacılık, yalnızca işlem bazlı değil, davranış bazlı bir yapıya dönüşür.  
+Sinyal bankacılığı, kullanıcının doğrudan işlem yapmadığı durumlarda bile dijital davranışlarından üretilen mikro-sinyalleri yorumlayarak **proaktif hizmet** sunar.  
+- Örneğin müşteri sık sık kart borcu ekranına bakıyor ama işlem yapmıyorsa, bu bir “kararsızlık” sinyali olarak değerlendirilir ve sistem kişiselleştirilmiş öneriler sunar.  
+- Yatırım ekranlarında yoğun zaman geçiren ama işlem yapmayan kullanıcıya, sadeleştirilmiş ürün karşılaştırmaları gösterilebilir.  
+- Böylece bankacılık, işlem bazlı olmaktan çıkıp **ihtiyaç anına odaklı, davranış bazlı hizmet modeline** dönüşür.  
 
 **Trend ve Değerlendirme**  
-**McKinsey’nin 8 Temmuz 2025 tarihli *Banking on gen AI in the credit business* raporu**, müşteri davranış verisinin yapay zekâ ile işlenmesinin kredi süreçlerinde değer yarattığını ortaya koyuyor.  
-**WSJ’nin 30 Haziran 2025 tarihli *Digital Workers Have Arrived in Banking* makalesi**, dijital çalışanların mikro-sinyal tabanlı optimizasyonla iş akışlarını geliştirdiğini aktarıyor.  
+2025 itibarıyla müşteri davranış verisinin yapay zekâ ile işlenmesi, deneyim tarafında değer yaratıyor:  
+- McKinsey’nin 8 Temmuz 2025 tarihli *Banking on gen AI in the credit business* raporu, müşteri davranış verisinin yapay zekâ ile işlenmesinin kredi süreçlerinde değer yarattığını ortaya koyuyor.  
+- WSJ’nin 30 Haziran 2025 tarihli *Digital Workers Have Arrived in Banking* makalesi, dijital çalışanların mikro-sinyal tabanlı optimizasyonla iş akışlarını geliştirdiğini aktarıyor.  
 
-Bu gelişmeler, bankacılıkta davranış bazlı etkileşimlerin artık ölçülebilir ve uygulanabilir hale geldiğini gösteriyor.  
+Bu raporlar, bankacılıkta davranış bazlı etkileşimlerin **müşteri deneyimi optimizasyonu** açısından artık ölçülebilir ve uygulanabilir hale geldiğini gösteriyor.  
 
 **Teknik Bileşenler**  
 - Event capture & stream processing (olay yakalama ve akış işleme)  
@@ -121,29 +124,30 @@ STP ↑ · AHT ↓ · FCR ↑ · NPS ↑ · Operasyonel kesinti ↓
 
 ---
 
-## **21. Düşünce Haritası Entegrasyonu (Why-Graph)**
+## 21. Düşünce Haritası Entegrasyonu (Why-Graph)
 
 **Tanım / Örnek Senaryo**  
 Düşünce Haritası Entegrasyonu, kurum içi projelerde yalnızca “ne yapıldığına” değil, aynı zamanda “neden bu yola girildiğine” dair kayıtların sistematik tutulmasını sağlar.  
 - Proje dokümanlarıyla birlikte, ekibin dayandığı fikirler, içgörüler ve varsayımlar da dijitalleştirilir.  
-- Yeni bir çalışan projeye katıldığında yalnızca backlog değil, bu bağlamsal “neden zinciri”ne de erişebilir.  
-- Örneğin “Bu ürünü neden şu segment için konumlandırdık?” sorusunun cevabı sadece satış verilerinde değil, kayıtlı bir düşünce haritasında yer alır.  
+- Yeni bir çalışan projeye katıldığında yalnızca backlog değil, bu bağlamsal neden zincirine de erişebilir.  
+- Örneğin “X ürününü neden Y segment için konumlandırdık?” sorusunun cevabı sadece satış verilerinde değil, kayıtlı bir düşünce haritasında yer alır.  
 
 Bu yaklaşım, karar alma süreçlerini şeffaflaştırır ve kurum içinde düşünsel süreklilik yaratır.  
 
 **Trend ve Değerlendirme**  
-**McKinsey’nin 12 Haziran 2025 tarihli *Digital Banking: Speed, scale, and the agentic arms race* raporu**, büyük kurumlarda bilgi kaybının %20’sinin karar süreçlerinin bağlamsız iletilmesinden kaynaklandığını ortaya koyuyor.  
-**Accenture’ın 8 Ocak 2025 tarihli *Banking Top 10 Trends 2025* raporu**, proje sürekliliğinde en kritik sorunun, yeni başlayan çalışanların “neden”i anlayamadan sadece “nasıl”a odaklanmak zorunda kalması olduğunu vurguluyor.  
-**Gartner’ın 21 Ekim 2024 tarihli *Top Strategic Technology Trends 2025* raporu**, “Decision Intelligence” teknolojilerini organizasyonlarda stratejik hafıza yaratmanın temel aracı olarak tanımlıyor.  
+2025 itibarıyla kurum içi bilgi sürekliliği ve stratejik hafıza yönetimi öne çıkıyor:  
+- McKinsey’nin 12 Haziran 2025 tarihli *Digital Banking: Speed, scale, and the agentic arms race* raporu, büyük kurumlarda bilgi kaybının %20’sinin karar süreçlerinin bağlamsız iletilmesinden kaynaklandığını ortaya koyuyor.  
+- Accenture’ın 8 Ocak 2025 tarihli *Banking Top 10 Trends 2025* raporu, proje sürekliliğinde en kritik sorunun, yeni başlayan çalışanların “neden”i anlayamadan sadece “nasıl”a odaklanmak zorunda kalması olduğunu vurguluyor.  
+- Gartner’ın 21 Ekim 2024 tarihli *Top Strategic Technology Trends 2025* raporu, “Decision Intelligence” teknolojilerini organizasyonlarda stratejik hafıza yaratmanın temel aracı olarak tanımlıyor.  
 
 Bu gelişmeler, düşünce-grafı tabanlı kayıt sistemlerinin kurum içi bilgi sürekliliğini sağlamak için kritik bir araç haline geldiğini gösteriyor.  
 
 **Teknik Bileşenler**  
-- Kurumsal arama (projelerin hem çıktılarını hem de gerekçelerini tarama)  
-- Vector indexes (karar dayanaklarının semantik eşlemesi)  
-- E-mail / issue analysis (neden-sonuç bağlantılarının çıkarılması)  
-- RBAC / ABAC (erişim kontrolü, “neden” kayıtlarının gizlilik düzeyi)  
-- Privacy & ethics filters (karar süreçlerinde kişisel bilgilerin anonimleştirilmesi)  
+- Kurumsal Arama (Enterprise Search) – projelerin hem çıktılarını hem de gerekçelerini tarama  
+- Vektör Dizinleri (Vector Indexes) – karar dayanaklarının semantik eşlemesi  
+- E-posta / Issue Analizi (E-mail / Issue Analysis) – neden-sonuç bağlantılarının çıkarılması  
+- Rol Tabanlı / Öznitelik Tabanlı Erişim Kontrolü (RBAC / ABAC) – “neden” kayıtlarının gizlilik düzeyi  
+- Gizlilik ve Etik Filtreleri (Privacy & Ethics Filters) – karar süreçlerinde kişisel bilgilerin anonimleştirilmesi  
 
 **Ölçülebilir Etki (KPI)**  
 STP ↑ · AHT ↓ · FCR ↑ · NPS ↑ · Operasyonel kesinti ↓  
