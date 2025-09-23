@@ -1,6 +1,6 @@
 # Teknik Bileşenler Sözlüğü
 
-**Mimari & Entegrasyon**  
+## **Mimari & Entegrasyon**  
 - **API Gateway — API Geçidi**  
 API gateway, farklı servislerin tek bir giriş noktası üzerinden yönetilmesini sağlayan, güvenlik, yönlendirme, hız sınırlama ve izleme gibi yetenekler sunan bir ara katman bileşenidir.  
 - **Background Agents — Arka Plan Ajanları**  
@@ -28,7 +28,7 @@ Workflow engine, süreçleri adım adım tanımlayıp otomatikleştiren; orkestr
 
 ---
 
-**Kimlik, Yetki & Rıza**  
+## **Kimlik, Yetki & Rıza**  
 - **Consent Management / Consent Ledger — Rıza Yönetimi / Rıza Defteri**  
 Consent management, kullanıcıların kişisel verilerinin işlenmesine dair verdikleri izinlerin kaydedilmesi, yönetilmesi ve gerektiğinde geri alınabilmesini sağlayan sistemdir.  
 - **IAM / RBAC / ABAC — Kimlik ve Yetki Yönetimi**  
@@ -40,7 +40,7 @@ Scoped tokens, erişim yetkilerinin belirli bir süre, kapsam veya işlemle sın
 
 ---
 
-**Veri & AI Temelleri**  
+## **Veri & AI Temelleri**  
 - **Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**  
 Context-aware UI engine, kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşenidir.  
 - **Context Engine — Bağlam Motoru**  
@@ -82,7 +82,7 @@ Embeddings, metin, görsel veya diğer verileri matematiksel vektörlere dönü�
 
 ---
 
-**Denetim, Uyum & Güvenlik**  
+## **Denetim, Uyum & Güvenlik**  
 - **Human-in-the-Loop (HITL) — İnsan Döngüde**  
 HITL, makine öğrenimi ve yapay zekâ sistemlerinde kritik karar noktalarında insan uzmanların sürece dâhil edilmesini sağlayan yaklaşımdır; böylece model çıktılarının güvenilirliği ve etik uygunluğu artırılır.  
 - **Immutable Audit Log / Audit Trail — Değiştirilemez Denetim Kaydı**  
@@ -96,7 +96,7 @@ Secure data pooling, farklı kaynaklardan gelen verilerin bir araya getirilerek 
 
 ---
 
-**Ses/Multimodal & Çağrı Merkezi**  
+## **Ses/Multimodal & Çağrı Merkezi**  
 - **ASR + VAD + Diarization — Otomatik Konuşma Tanıma + Ses Aktivitesi Tespiti + Konuşmacı Ayrımı**  
 ASR (Automatic Speech Recognition), konuşmayı metne çevirir; VAD (Voice Activity Detection), konuşma anlarını tespit eder; diarization ise farklı konuşmacıları birbirinden ayırır. Bu bileşenler çağrı merkezi otomasyonu ve analizinde temel altyapıyı oluşturur.  
 - **Multimodal Fusion (Voice + Text) — Çok Modlu Birleştirme (Ses + Metin)**  
@@ -108,7 +108,7 @@ SER, konuşma sinyallerindeki prosodi (tonlama, tempo, vurgu) ve spektral özell
 
 ---
 
-**İleri Seviye / Kuantum**  
+## **İleri Seviye / Kuantum**  
 - **Hybrid Workflow Orchestration — Hibrit İş Akışı Orkestrasyonu**  
 Hybrid workflow orchestration, klasik ve kuantum tabanlı algoritmaların birlikte çalışmasını sağlayan iş akışı yönetimidir; bu yaklaşım özellikle optimizasyon ve simülasyon problemlerinde hesaplama verimliliğini artırır.  
 - **Model Validation & Stress Testing — Model Doğrulama & Stres Testleri**  
@@ -122,7 +122,7 @@ Quantum-inspired optimization, kuantum hesaplama prensiplerinden esinlenen ancak
 
 ---
 
-**Davranışsal Analitik & Risk**  
+## **Davranışsal Analitik & Risk**  
 - **Anomaly Detection — Anomali Tespiti**  
 Anomaly detection, normal davranış örüntülerinden sapmaları tespit eden yöntemdir; finansal dolandırıcılık, operasyonel hata veya güvenlik ihlallerini erken fark etmek için kullanılır.  
 - **Behavioral Analytics Engine — Davranışsal Analitik Motoru**  
@@ -134,6 +134,6 @@ Risk engine entegrasyonu, analitik motorların kredi, dolandırıcılık veya li
 
 ---
 
-**Kurumsal Arama & Bilgi Yönetimi**  
+## **Kurumsal Arama & Bilgi Yönetimi**  
 - **Enterprise Search & Knowledge Management — Kurumsal Arama & Bilgi Yönetimi**  
 Enterprise search & knowledge management, kurum içi belgeler, veri tabanları ve iletişim kayıtları üzerinde gelişmiş arama ve bilgi yönetimi imkânı sağlayan çözümlerdir; çalışanların doğru bilgiye hızlı ulaşmasını ve kurumsal hafızanın korunmasını destekler.
