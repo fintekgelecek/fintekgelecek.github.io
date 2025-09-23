@@ -5,22 +5,18 @@ Bu çalışma toplam 36 fikir içeriyor. Her bir fikri şu üç temel boyut üze
 - **Tanım / Örnek Senaryo** — Kavramın ne ifade ettiğini ve sahadaki olası kullanım durumunu anlattım.  
 - **Neden Şimdi?** — Bu fikrin neden bugünün koşullarında kritik hâle geldiğini ve hangi trendlerle bağlantılı olduğunu tartıştım.  
 - **Teknik Bileşenler** — Fikrin arkasındaki teknolojik yapı taşlarını listeledim.  
-
-Bunlara ek olarak, metnin bütününü desteklemek için dört ayrı bölüm daha hazırladım:
+- **Ölçülebilir Etki (KPI)** - Fikrin sahada yarattığı değeri somut göstergeler üzerinden nasıl izleyip değerlendirebileceğimizi tanımladım.
+Bunlara ek olarak, metnin bütününü desteklemek için dört ayrı bölüm daha hazırladım.
 
 ---
 
 ## 1. Teknik Bileşenler Sözlüğü
 
-Her fikirde anılan teknolojik bileşenleri ayrıca bir “sözlük” bölümünde detaylandırdım.  
+Her fikirde anılan teknolojik bileşenleri ayrıca bir “sözlük” bölümünde detaylandırdım. Örneğin; 
 
-**Mimari & Entegrasyon**  
-**API Gateway — API Geçidi**  
-Farklı servislerin tek bir giriş noktası üzerinden yönetilmesini sağlayan, güvenlik, yönlendirme, hız sınırlama ve izleme gibi yetenekler sunan bir ara katman bileşeni.  
+- **API Gateway — API Geçidi**: Farklı servislerin tek bir giriş noktası üzerinden yönetilmesini sağlayan, güvenlik, yönlendirme, hız sınırlama ve izleme gibi yetenekler sunan bir ara katman bileşeni.  
 
-**Veri & AI Temelleri**  
-**Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**  
-Kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşeni.  
+-**Context-aware UI Engine — Bağlama Duyarlı Arayüz Motoru**: Kullanıcının bağlamına (konum, zaman, cihaz veya geçmiş davranışlar) göre arayüz öğelerini dinamik olarak uyarlayan bir yazılım bileşeni.  
 
 Bu sözlüğü, yazıda geçen kavramların teknik zeminini merak eden okuyucular için bir referans olarak kurguladım.
 
@@ -28,7 +24,7 @@ Bu sözlüğü, yazıda geçen kavramların teknik zeminini merak eden okuyucula
 
 ## 2. KPI (Ölçülebilir Etki) Sözlüğü
 
-Yaklaşık üç sayfalık bu bölümde, fikirlerin müşteri deneyimi ve operasyonel verimlilik üzerindeki etkilerini ölçmeye yarayan metrikleri derledim.  
+Bu bölümde, fikirlerin müşteri deneyimi ve operasyonel verimlilik üzerindeki etkilerini ölçmeye yarayan metrikleri derledim.  
 
 - **Müşteri Deneyimi:** AHT (Average Handle Time), CES (Customer Effort Score), NPS (Net Promoter Score), drop-off oranı vb.  
 - **Operasyonel Verimlilik:** Çağrı merkezi maliyetleri, onboarding süresi, işlem tamamlama oranı, operasyonel kesinti süresi vb.  
@@ -45,7 +41,7 @@ Bu bölümde fikirlerin Türkiye bağlamında uygulanabilirliğine odaklandım. 
 
 ## 4. Kaynakça
 
-Yazının tamamını, küresel ve yerel ölçekte yaklaşık 40 kaynakla destekledim. Örnekler:
+Yazının tamamını, küresel ve yerel ölçekte kaynaklarla destekledim. Örnekler:
 
 - Accenture. (Şub 2025). *Reimagining Customer Journeys in Financial Services*.  
   Erişim adresi: <https://www.accenture.com/insights/banking/customer-journeys-finance>  
@@ -55,6 +51,6 @@ Yazının tamamını, küresel ve yerel ölçekte yaklaşık 40 kaynakla destekl
 
 ---
 
-Özetle her bir fikri üç boyut üzerinden işledim: **Tanım / Örnek Senaryo**, **Neden Şimdi?** ve **Teknik Bileşenler**. Bunun yanında hazırladığım **Teknik Bileşenler Sözlüğü**, **KPI (Ölçülebilir Etki) Sözlüğü**, **Türkiye Uyarlaması** ve **Kaynakça** bölümleri çalışmayı tamamlayan ek katmanlar oldu.  
+Özetle her bir fikri dört boyut üzerinden işledim: **Tanım / Örnek Senaryo**, **Neden Şimdi?** ve **Teknik Bileşenler** ve **Ölçülebilir Etki (KPI)**. Bunun yanında hazırladığım **Teknik Bileşenler Sözlüğü**, **KPI (Ölçülebilir Etki) Sözlüğü**, **Türkiye Uyarlaması** ve **Kaynakça** bölümleri çalışmayı tamamlayan ek katmanlar oldu.  
 
-Okuyucunun yalnızca ilham verici konseptlerle değil; bu fikirlerin teknik zemini, ölçülebilir etki alanları ve Türkiye’ye özgü düzenleyici/etik çerçevesiyle birlikte düşünmesini istedim. Metin **uygulanabilir bir yol haritası iddiası taşımıyor**; amaç, tartışmayı besleyen ve perspektif açan bir çerçeve sunmak.
+Okuyucunun yalnızca ilham verici konseptlerle değil; bu fikirlerin teknik zemini, ölçülebilir etki alanları ve Türkiye’ye özgü düzenleyici/etik çerçevesiyle birlikte düşünmesini istedim. Belirttiğim gibi bu çalışma **uygulanabilir bir yol haritası iddiası taşımıyor**; amaç, tartışmayı besleyen ve perspektif açan bir çerçeve sunmak.
