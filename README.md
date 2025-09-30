@@ -22,6 +22,6 @@ Türkiye’nin önde gelen finansal teknoloji ve banka liderlerinin perspektifin
 Hazırlayan: **Yüksel Can Kabaklarlı**  
 📧 E-posta: [can.kabaklarli@gmail.com](mailto:can.kabaklarli@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/yukselcankabaklarli](https://www.linkedin.com/in/yukselcankabaklarli/)  
-📄 CV: [http://fintekgelecek.github.io/cv/](http://fintekgelecek.github.io/cv/)
+📄 CV: [fintekgelecek.github.io/cv/](http://fintekgelecek.github.io/cv/)
 
 Tarih: **Eylül 2025**
